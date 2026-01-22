@@ -2,5 +2,5 @@ Name: Okafor Peter
 Matric Number: 23CH034211
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://your-pythonanywhere-link
+Live URL: https://project-6-wine-cultivar-origin.onrender.com
 GitHub Repository: https://github.com/Peter-ConX/Project_6_Wine_Cultivar_Origin_Prediction_System_Okafor_Peter_23CH034211.git
